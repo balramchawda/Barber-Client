@@ -1,0 +1,1 @@
+export { default as adminFetch } from './adminFetch'

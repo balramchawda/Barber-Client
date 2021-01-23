@@ -1,0 +1,26 @@
+.btn_edit {
+    color: #1890ff;
+    border: 0;
+    background-color: transparent;
+    &:hover{
+        color: #40a9ff;
+    }
+    &:focus{
+        outline: none;
+    }
+}
+.login_form{
+    ul{
+        padding: 0;
+        margin: 0;
+        list-style: none;
+        li{
+            width: 100%;
+        }
+    }
+}
+.modal_service{
+    .btn_wrap{
+        text-align: right;
+    }
+}
